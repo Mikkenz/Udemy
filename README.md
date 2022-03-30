@@ -4,8 +4,6 @@
 
 <h3>Triangulo</h3>
 <p>No pacote Triangulo foi usado o exemplo de classes para calcular a área de um triangulo com o objetivo de demonstrar o Java Orientado a Objetos
-<br>
-Para acessar o código, [Clique aqui](https://github.com/Mikkenz/Udemy/tree/main/Udemy2/src/Triangulo).
 </p>
 
 
