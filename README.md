@@ -3,7 +3,11 @@
 
 
 <h3>Triangulo</h3>
-<p>No pacote Triangulo foi usado o exemplo de classes para calcular a área de um triangulo com o objetivo de demonstrar o Java Orientado a Objetos</p>
+<p>No pacote Triangulo foi usado o exemplo de classes para calcular a área de um triangulo com o objetivo de demonstrar o Java Orientado a Objetos
+<br>
+Para acessar o código, [Clique aqui](https://github.com/Mikkenz/Udemy/tree/main/Udemy2/src/Triangulo).
+</p>
+
 
 <h3>Estoque</h3>
 <p>O pacote Estoque contêm as classes usadas para simular um estoque com o intuito de dar continuidade na parte de Orientação a Objetos e mostrar Constructors e os métodos Get e Set</p>
