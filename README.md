@@ -18,3 +18,6 @@
 
 <h3>Date</h3>
 <p>Date é o pacote que contém a classe usada para as explicações sobre a classe de datas e horas do Java</p>
+
+<h3>Herança</h3>
+<p>Usamos exemplos práticos para entender conceitos de Herança, Polimorfismo, Classes e Atributos Abstratos, etc...</p>
